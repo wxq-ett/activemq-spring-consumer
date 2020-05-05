@@ -3,6 +3,9 @@ package com.etoak.bean;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+/*
+* 邮件实体类
+* */
 
 @Data
 @NoArgsConstructor
